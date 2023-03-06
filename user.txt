@@ -1,0 +1,3 @@
+Lavon|Oranges|Admin
+Christina|Peaches|USer
+Carter|Apples|User

@@ -1,0 +1,10 @@
+Lavon|Oranges|Admin
+Christina|Peaches|User
+Carter|Apples|User
+Lavon|Oranges|Admin
+Christina|Peaches|User
+Carter|Apples|User
+Lavon Fields|Oranges|Admin
+Christina Vaz|Peaches|User
+Lavon|Oranges|Admin
+Christina|Peaches|User
